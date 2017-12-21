@@ -1,0 +1,8 @@
+# trigger file - if you've done through part 11 but no stories are popping
+# up, you should edit this file to contain triggers that will fire on current
+# news stories!
+# Problem 11: 
+t1 TITLE Obama
+t2 TITLE Detroit
+t3 SUMMARY hello
+ADD t1 t2 t3
